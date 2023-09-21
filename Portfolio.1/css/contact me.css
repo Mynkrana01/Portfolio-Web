@@ -1,0 +1,21 @@
+ .contact{
+    /* background-color: white; */
+    color: black;
+    text-align: center;
+} 
+
+.info{
+    margin: 20px;
+    padding: 10px;
+    height: 60px;
+     /* background-color: red;  */
+}
+
+.gif{
+    padding: 5px;
+    padding-left: 190px;
+    border-radius: 20px;
+    margin: 0px;
+    /* background-color: white; */
+    height: 400px;
+}
